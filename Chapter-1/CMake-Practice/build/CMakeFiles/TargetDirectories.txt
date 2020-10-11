@@ -1,0 +1,8 @@
+/home/deepduke/Documents/Hello Cmake/CMake Practice/build/CMakeFiles/install/local.dir
+/home/deepduke/Documents/Hello Cmake/CMake Practice/build/CMakeFiles/install/strip.dir
+/home/deepduke/Documents/Hello Cmake/CMake Practice/build/CMakeFiles/sayhello.dir
+/home/deepduke/Documents/Hello Cmake/CMake Practice/build/CMakeFiles/hello.dir
+/home/deepduke/Documents/Hello Cmake/CMake Practice/build/CMakeFiles/edit_cache.dir
+/home/deepduke/Documents/Hello Cmake/CMake Practice/build/CMakeFiles/rebuild_cache.dir
+/home/deepduke/Documents/Hello Cmake/CMake Practice/build/CMakeFiles/list_install_components.dir
+/home/deepduke/Documents/Hello Cmake/CMake Practice/build/CMakeFiles/install.dir

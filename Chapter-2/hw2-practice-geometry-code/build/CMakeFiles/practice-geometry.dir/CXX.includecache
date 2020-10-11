@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/deepduke/Documents/slam/Chapter-2/hw2-practice-geometry-code/src/practice-geometry.cpp
+iostream
+-
+Eigen/Core
+-
+Eigen/Geometry
+-
+

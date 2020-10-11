@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -O3 -DNDEBUG   CMakeFiles/practice-eigen.dir/src/practice-eigen.cpp.o  -o practice-eigen 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/practice-geometry.dir/src/practice-geometry.cpp.o  -o practice-geometry 
