@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/deepduke/Documents/slam/Chapter-6/OpticFlow/src/optical_flow.cpp
+opencv2/opencv.hpp
+-
+string
+-
+Eigen/Core
+-
+Eigen/Dense
+-
+
